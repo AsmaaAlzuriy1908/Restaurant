@@ -1,0 +1,13 @@
+.parent{
+    background-color: aqua;
+    display: flex;
+    flex-wrap: wrap-reverse;
+}
+.child1{
+    background-color: red;
+    width: 100%;
+}
+.child2{
+    background-color: blue;
+    width: 100%;
+}

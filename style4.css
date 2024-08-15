@@ -1,0 +1,23 @@
+.home{
+    background-image: url(img/bg-hero.jpg);
+    background-position:center;
+    background-size: cover;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.home-des{
+    color: aliceblue;
+    text-align: center;
+    padding: 25px;
+}
+.home button{
+    border: none;
+    padding:15px ;
+    border-radius :20%;
+    margin-left: 20px;
+}

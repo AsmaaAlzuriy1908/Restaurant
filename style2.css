@@ -1,0 +1,24 @@
+/* div{
+    background-color: chocolate;
+    width: 200px;
+    height: 200px;
+    transition: 4s ease-out;
+}
+div:hover{
+    background-color: blueviolet;
+    transform: scale(0,5);
+}
+img{
+    position: relative;
+    animation-name: asma;
+    animation-duration: 20s;
+    animation-iteration-count: infinite;
+    
+}
+@keyframes asma {
+    0%{left: 0px; top:0px ;transform: rotate(0deg);}
+    50%{left: 1000px; top: 250px;transform: rotate(0deg);}
+    51%{left: 1000px; top:0px;transform:rotateY(180deg);}
+    100%{left: 0px; top:0px;transform:rotateY(180deg);}
+    
+} */

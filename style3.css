@@ -1,0 +1,46 @@
+.home{
+    background-image: url(img/about-1.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    display:flex ;
+    align-items: center;
+    justify-content: center;
+
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.home-des{
+    color: aliceblue;
+    text-align: center;
+    padding: 20px;
+}
+
+button{
+    border: none;
+    padding: 15px;
+    border-radius: 10%;
+    background-color: rgba(0,0,0, 0.8);
+    color: aliceblue;
+    margin-left: 20px;
+
+}
+h1{
+    margin: 15px;
+}
+.chef{
+    display: flex;
+}
+.chef-des{
+    text-align: center;
+    position: relative;
+    top: 300px;
+
+}
+.banner{
+    background-image:url(img/about-3.jpg) ;
+    background-attachment: fixed;
+    height: 600p;
+}
